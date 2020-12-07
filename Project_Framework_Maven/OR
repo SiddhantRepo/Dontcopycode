@@ -1,0 +1,12 @@
+firstname= //input[@placeholder='First Name']
+lastname= //input[@placeholder='Last Name']
+address= //*[@ng-model='Adress']
+Emailaddress= //input[@type='email']
+Phone= //input[@type='tel']
+
+
+
+
+
+
+
